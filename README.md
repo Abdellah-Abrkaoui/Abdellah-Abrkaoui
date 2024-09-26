@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdellah Abrkaoui</h1>
-<h3 align="center">A passionate Mern Full Stack web developer and SEO expert from Morocco</h3>
+<h3 align="center">A passionate Mern Stack web developer and SEO expert from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdellah-abrkaoui&label=Profile%20views&color=0e75b6&style=flat" alt="abdellah-abrkaoui" /> </p>
 
